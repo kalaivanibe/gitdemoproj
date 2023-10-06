@@ -1,5 +1,2 @@
 Welcome to the Git Demo Project
 The file modified in the dev branch.
-
-modified by vasanti
-end //
